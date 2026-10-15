@@ -27,10 +27,11 @@
 
 支持手指拖拽和点击，平板、手机、触摸一体机都能直接玩；电脑上用浏览器打开也行。
 
-## 想在网上直接玩（可选）
+## 在线玩
 
-仓库 Settings → Pages，把 Source 选成 `main` 分支的根目录（/root），保存后等一两分钟，就可以用
-`https://mzgz-xcxd.github.io/shuo-jia-jietu/` 打开。
+已开启 GitHub Pages，点开就能玩（手机、平板、一体机都行）：
+
+**https://mzgz-xcxd.github.io/shuo-jia-jietu/**
 
 ## 说明
 
